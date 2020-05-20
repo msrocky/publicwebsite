@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New webpage</title>
+    </head>
+    <body>
+    <h1 class="WtPW">Welcome to Public Website</h1>
+<p>This is an example link that looks like normal text --> <a href="example.org">Link that looks like normal text</a>
+a {
+ color:black;
+ text-decoration:none;
+}
+    </body>
+</html>
